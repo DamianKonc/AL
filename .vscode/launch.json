@@ -9,7 +9,7 @@
       "server": "http://BusinessDamian",
       "serverInstance": "BC",
       "authentication": "UserPassword",
-      "startupObjectId": 22,
+      "startupObjectId": 50103,
       "startupObjectType": "Page",
       "breakOnError": "All",
       "launchBrowser": true,
